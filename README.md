@@ -1,10 +1,11 @@
 **Automated Game Player using Heuristic Evaluation and Genetic Algorithm**
-
-**Objective**:
-- Developed an automated game player for a classic block placement game (e.g., Tetris), which autonomously places game pieces to maximize the score using heuristic evaluation and genetic algorithms.
 **Note**
   - game not devolped py me i am just edit on it
   - game belong to https://www.pygame.org/contribute.html
+
+**Objective**:
+- Developed an automated game player for a classic block placement game (e.g., Tetris), which autonomously places game pieces to maximize the score using heuristic evaluation and genetic algorithms.
+
 **Key Contributions**:
 1. **Code Modification**:
    - Edited the original game code to enable automatic play instead of manual play.
