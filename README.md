@@ -1,4 +1,5 @@
 **Automated Game Player using Heuristic Evaluation and Genetic Algorithm**
+
 **Note**
   - game not devolped py me i am just edit on it
   - game belong to https://www.pygame.org/contribute.html
